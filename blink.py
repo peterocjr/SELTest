@@ -1,3 +1,2 @@
 import time
-import gpiozero
-
+import gpiozero as LED
